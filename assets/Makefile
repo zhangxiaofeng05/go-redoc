@@ -1,3 +1,5 @@
+#brew install md5sha1sum
+
 .PHONY: jsmd5sum
 jsmd5sum:
 	md5sum redoc.standalone.js > redoc.standalone.js.md5sum
