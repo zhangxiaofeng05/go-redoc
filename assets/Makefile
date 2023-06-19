@@ -1,4 +1,4 @@
-#brew install md5sha1sum
+#brew install coreutils
 
 .PHONY: jsmd5sum
 jsmd5sum:
